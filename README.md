@@ -1,2 +1,2 @@
 # OrphanLabTag
-Analysis pipeline for 16S iTag amplicon
+Tutorial For analysis pipeline for 16S iTag amplicon sequencing
